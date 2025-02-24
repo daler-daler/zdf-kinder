@@ -4,7 +4,7 @@
   "version": "1.0.7",
   "description": "ZDF-Kinder is a Tizen Module that provides a clean child-friendly version of ZDF Kinder webpage for streaming on your Tizen (Samsung) TVs.",
   "packageType": "mods",
-  "websiteURL": "https://www.google.com/",
+  "websiteURL": "https://pwa.zdf.de/kinder/zdfchen/zdfchen-100",
   "main": "dist/userScript.js",
   "author": "Daler A.",
   "serviceFile": "",
